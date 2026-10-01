@@ -131,3 +131,5 @@ backtester/
 
 ## Tech Stack
 Python · pandas · NumPy · matplotlib · yfinance
+
+*開發過程中使用 Claude Code 輔助程式撰寫。*
